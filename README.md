@@ -21,3 +21,7 @@ Then add a **PRs** button beside Files and Changes: [RECIPE.md](RECIPE.md), "A p
 ([herdr-review](https://github.com/dadodimauro/herdr-review)).
 
 [RECIPE.md](RECIPE.md) is the full brief to build it from an empty folder.
+
+## License
+
+[WTFPL](LICENSE).
